@@ -1,0 +1,25 @@
+{
+    "ejemplos": [
+        {
+            "parking_name": "Parkin Suparquin",
+            "parking_code": "su-parquin",
+            "parking_latitude": "20",
+            "parking_longitude": "20",
+            "place_code": "30"
+        },
+        {
+            "parking_name": "Parkincito",
+            "parking_code": "parkincito",
+            "parking_latitude": "90",
+            "parking_longitude": "10",
+            "place_code": "15"
+        },
+        {
+            "parking_name": "Megaparkin",
+            "parking_code": "megaparkin",
+            "parking_latitude": "63",
+            "parking_longitude": "98",
+            "place_code": "67"
+        }
+    ]
+}
